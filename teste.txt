@@ -1,1 +1,2 @@
 teste - adicionando uma frase diferente da primeira
+teste - 1: adicionando uma frase ao texto.
